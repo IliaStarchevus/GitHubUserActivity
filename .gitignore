@@ -1,0 +1,9 @@
+# exclude generative folders
+logs
+
+# exclude unnecessary data
+__pycache__
+.vscode
+
+# exclude developer notes
+TODO.md
