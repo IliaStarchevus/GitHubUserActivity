@@ -14,7 +14,7 @@
 1. Клонируй репозиторий:
     
     ```shell
-    git clone https://github.com/IliaStarchevus/GitHubActivity.git
+    git clone https://github.com/IliaStarchevus/GitHubUserActivity.git
     ```
 
 2. Установи зависимости:
