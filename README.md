@@ -14,7 +14,7 @@ This project is inspired by [roadmap.sh](https://roadmap.sh/projects/github-user
 1. Clone the repository:
     
     ```shell
-    git clone https://github.com/IliaStarchevus/GitHubActivity.git
+    git clone https://github.com/IliaStarchevus/GitHubUserActivity.git
     ```
 
 2. Install requirements:
